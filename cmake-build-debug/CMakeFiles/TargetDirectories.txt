@@ -1,0 +1,3 @@
+C:/Users/Dyogo Mondego/CLionProjects/SnakeInterfaceTerminal/cmake-build-debug/CMakeFiles/SnakeInterfaceTerminal.dir
+C:/Users/Dyogo Mondego/CLionProjects/SnakeInterfaceTerminal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dyogo Mondego/CLionProjects/SnakeInterfaceTerminal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
